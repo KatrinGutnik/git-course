@@ -1,1 +1,1 @@
-body.innerHTML = '<h1>Hello fron JS</h1>'
+body.innerHTML = '<h1>Hello JS</h1>'
